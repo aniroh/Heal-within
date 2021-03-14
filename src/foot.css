@@ -1,0 +1,33 @@
+.footer{
+    /* position: fixed; */
+    font-size: 15px; 
+    width: 100%;
+    background-color: #ffcbcb;
+     
+}
+.foottitle{
+    font-size: 18px !important;
+    font-weight: 600;
+}
+.page-container{
+    display:flex;
+    flex-direction: column;
+
+}
+.content-wrap{
+    flex:1;
+}
+.rights{
+    text-align: center;
+    color:lightslategray;
+    font-size: small;
+}
+
+/* @media only screen and (max-width: 468px) {
+    .footer{
+        font-size: 0.8em;
+    }
+    .foottitle{
+        font-size: 1.2em;
+    }
+} */
